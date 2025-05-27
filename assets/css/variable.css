@@ -1,0 +1,96 @@
+:root {
+    --white: #ffffff;
+    --offwhite: #FFFFFF4D;
+    --black: #000000;
+    --lightyellow: #EFF395;
+    --text1: #01050E;
+    --text2: #949FAF;
+    --text3: #1B1C31;
+    --text4: #757095;
+    --text5: #4FB58B;
+    --text6: #535862;
+    --text7: #181D27;
+    --text8: #667085;
+    --skyblue: #00E1F0;
+    --darkblue: #3734A9;
+    --starpink: #F9896B;
+    --banner: #59B5C4;
+    --aboutussec: #A3D1C6;
+    --testimonialSec: #F6F6F6;
+    --contactsec: #A3D1C6;
+    --formsec2: #ABABAB;
+    --formsec: #D8ECE7;
+    --footer: #364A45;
+    --socialsymbol: #F7F7EE;
+    --border: #A3A686;
+    --web-dev: linear-gradient(to right, #F5F8FF, #E0EFDF);
+    --mobile-app: linear-gradient(to right, #FFF9F2, #FFE9DD);
+    --web-consult: linear-gradient(to right, #F9F1FD, #F3DFF6);
+    --saas-sol: linear-gradient(to right, #F6FFF2, #EDFFDD);
+    --graph-des: linear-gradient(to right, #FFFEF5, #FDFBE0);
+    --digital-marketng: linear-gradient(to right, #F2FFFF, #DDF9FF);
+    --breadcrumb: rgba(255, 255, 255, 0.35)
+    --testmonial-imgbg: #E8F2FF;
+  }
+
+  @font-face {
+    font-family: 'Inter';
+    src: url('../iconFont/fonts/Inter-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Inter';
+    src: url('../iconFont/fonts/Inter-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Inter';
+    src: url('../iconFont/fonts/Inter-Medium.woff') format('woff');
+    font-weight: medium;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Inter';
+    src: url('../iconFont/fonts/Inter-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Inter';
+    src: url('../iconFont/fonts/Inter-Light-BETA.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Montserrat';
+    src: url('../iconFont/fonts/Montserrat-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Orelega One';
+    src: url('../iconFont/fonts/OrelegaOne-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Manrope';
+    src: url('../iconFont/fonts/Manrope-Bold.woff') format('woff');
+    font-weight: bold;  
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Manrope'; 
+    src: url(../iconFont/fonts/Manrope-Medium.woff) format('woff');
+    font-weight: 500; 
+    font-style: normal;
+  }
